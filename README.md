@@ -1,20 +1,15 @@
 # clojure-noob
-
-FIXME: description
+Repositório referente aos execícios do livro - Clojure for the Brave and True
 
 ## Installation
 
-Download from http://example.com/FIXME.
 
 ## Usage
 
-FIXME: explanation
-
-    $ java -jar clojure-noob-0.1.0-standalone.jar [args]
 
 ## Options
 
-FIXME: listing of options this app accepts.
+
 
 ## Examples
 
